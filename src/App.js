@@ -74,7 +74,7 @@ import Task from './Task';
 function App(){
   return (
     <div>
-      <Task/>
+      <h1>hello</h1>
     </div>
   )
 }
